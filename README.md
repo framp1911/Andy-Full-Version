@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Andy**. The software i
 **Get the most recent version of Andy today!**
 
 ---
-**Last updated:** 2026-09-18 13:25:56 UTC
+**Last updated:** 2026-09-18 17:31:14 UTC
